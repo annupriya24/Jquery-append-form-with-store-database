@@ -35,10 +35,6 @@ $query = "SELECT * FROM state ORDER BY state_name ASC";
     <p>The following is the example of display form fields based on selection. </p>
 <form id="myForm" enctype="multipart/form-data">
   <h1>Conditionize</h1>
-  
-  <input type="text" name="text-control" placeholder="Type 'magic'">
-  
-  <div data-cond="[name=text-control] == magic">Magically show when text control contains 'magic' word.</div>
 
   <select name="select-control">
     <option value="1">One</option>
