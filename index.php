@@ -78,7 +78,7 @@ $query = "SELECT * FROM state ORDER BY state_name ASC";
 </form> </article>
 </main>
 
-<footer class="credit">Author: nk-o - Distributed By: <a title="Awesome web design code & scripts" href="https://www.codehim.com?source=demo-page" target="_blank">CodeHim</a></footer>
+<footer class="credit"><a title="Awesome web design code & scripts" href="#" target="_blank">CodeMe</a></footer>
 <script>
 $('#myForm').conditionize( {
   checkDebounce: 0,
